@@ -1,3 +1,12 @@
+import shoeshop from "../assets/projets/shoeshop.png"
+import locapic from "../assets/projets/locapic.png"
+import myMoviz2 from "../assets/projets/myMoviz2.png"
+import morningNews3 from "../assets/projets/morningNews3.png"
+import kutit from "../assets/projets/kutit.png"
+import myMails1 from "../assets/projets/myMails1.png"
+import cloudySunny from "../assets/projets/cloudySunny.png"
+import blackBoard5 from "../assets/projets/blackBoard5.png"
+
 const portfolios_data = [
   {
     id: 1,
